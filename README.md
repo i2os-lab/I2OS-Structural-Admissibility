@@ -13,7 +13,12 @@
 Security ≠ Filter Output
 Security = Admissible Transition Only
 ```
+## Key Insight
 
+Hallucination = Unsupported State Transition
+
+Instead of detecting false outputs after generation,
+we prevent structurally invalid transitions before execution.
 Structural Admissibility is a transition-based security framework for generative systems.  
 Instead of filtering outputs after generation, it allows execution only when a state transition is structurally admissible.
 
