@@ -1,6 +1,10 @@
 # I2OS Structural Admissibility
 
-## A Transition-Based Security Framework for Secure Generative Systems
+## A Transition-Based Security Framework for Generative Systems
+
+Security = Admissible Transition Only
+
+Hallucination = Unsupported State Transition
 
 📄 [Read Full Paper (PDF)](./paper/I2OS_Structural_Admissibility.pdf)  
 🧾 [LaTeX Source](./paper/main.tex)
