@@ -6,7 +6,7 @@ Security = Admissible Transition Only
 
 Hallucination = Unsupported State Transition
 
-📄 [Read Full Paper (PDF)](./paper/I2OS_Structural_Admissibility.pdf)  
+📄[Read Full Paper (PDF)](./paper/I2OS_Structural_Admissibility.pdf)
 🧾 [LaTeX Source](./paper/main.tex)
 
 ---
