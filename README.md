@@ -77,7 +77,7 @@ examples/    Applied examples
 ```bibtex
 @article{i2os_structural_admissibility_2026,
   title={Structural Admissibility: An I2OS Framework for Secure Generative Systems},
-  author={Anonymous},
+  author={Masayuki Ando},
   year={2026}
 }
 ```
