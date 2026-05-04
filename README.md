@@ -19,7 +19,7 @@ Security = Admissible Transition Only
 ```
 ## Key Insight
 
-Hallucination = Unsupported State Transition
+**Hallucination = Unsupported State Transition**
 
 Instead of detecting false outputs after generation,
 we prevent structurally invalid transitions before execution.
